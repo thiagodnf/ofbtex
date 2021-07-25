@@ -82,6 +82,12 @@
     \belowdisplayshortskip=1.5\onelineskip
     \abovecaptionskip=\onelineskip
     \belowcaptionskip=\onelineskip
+    \def\equationautorefname{Equação}%
+    \def\figureautorefname{Figura}%
+    \def\sectionautorefname{Seção}%
+    \def\subsectionautorefname{Subseção}%
+    \def\subsubsectionautorefname{Subseção}%
+    \def\tableautorefname{Tabela}%
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
