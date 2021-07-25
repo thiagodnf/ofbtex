@@ -13,8 +13,9 @@ Se você gostaria de ver o arquivo final generado por esse template, [clique aqu
 
 ## Como usar
 
-Recomendamos que você utilize o Overleaf para criar o seu documento.
+Recomendamos que você utilize o Overleaf para criar o seu documento. Access o "Menu" e mude o compilador para "XeLatex".
 
+![image](https://user-images.githubusercontent.com/114015/126906148-0c5bfae0-87a3-4259-a00b-8700ee1bdaba.png)
 
 
 ## Perguntas ou sugestões
