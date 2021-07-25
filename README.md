@@ -9,7 +9,7 @@ Modelo em Latex para o Observatório do Federalismo Brasileiro (OFB)
 
 ## Exemplo
 
-Se você gostaria de ver o arquivo final generado por esse template, [clique aqui](https://github.com/thiagodnf/ofbtex/blob/main/example.pdf)
+Se você gostaria de ver o arquivo final generado por esse template, [clique aqui](https://github.com/thiagodnf/ofbtex/blob/main/exemplo.pdf)
 
 ## Perguntas ou sugestões
 
