@@ -11,6 +11,12 @@ Modelo em Latex para o Observatório do Federalismo Brasileiro (OFB)
 
 Se você gostaria de ver o arquivo final generado por esse template, [clique aqui](https://github.com/thiagodnf/ofbtex/blob/main/exemplo.pdf)
 
+## Como usar
+
+Recomendamos que você utilize o Overleaf para criar o seu documento.
+
+
+
 ## Perguntas ou sugestões
 
 Sinta-se à vontade para enviar <a href="https://github.com/thiagodnf/ofbtex/issues">perguntas ou sugestões</a> aqui conforme necessário.
