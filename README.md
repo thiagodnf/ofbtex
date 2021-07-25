@@ -9,7 +9,7 @@ Modelo em Latex para o Observatório do Federalismo Brasileiro (OFB)
 
 ## Perguntas ou sugestões
 
-Sinta-se à vontade para criar <a href="https://github.com/thiagodnf/ofbtex/issues">questões</a> aqui conforme necessário
+Sinta-se à vontade para enviar <a href="https://github.com/thiagodnf/ofbtex/issues">perguntas ou sugestões</a> aqui conforme necessário.
 
 ## Ajude-nos!
 
