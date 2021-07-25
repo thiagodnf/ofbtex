@@ -18,7 +18,7 @@ Contributions to the this project are very welcome! We can't do this alone! Feel
 ## Authors
 
 * **Thiago Ferreira** - *Initial work*
-* * **Hermelino de Souza** - *Initial work*
+* **Hermelino de Souza** - *Initial work*
 
 See also the list of [contributors](https://github.com/thiagodnf/ofbtex/graphs/contributors) who participated in this project.
 
