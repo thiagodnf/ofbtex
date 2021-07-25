@@ -7,6 +7,10 @@ Modelo em Latex para o Observatório do Federalismo Brasileiro (OFB)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+## Exemplo.
+
+Se você gostaria de ver o arquivo final generado por esse template, [clique aqui](https://github.com/thiagodnf/ofbtex/blob/main/example.pdf)
+
 ## Perguntas ou sugestões
 
 Sinta-se à vontade para enviar <a href="https://github.com/thiagodnf/ofbtex/issues">perguntas ou sugestões</a> aqui conforme necessário.
