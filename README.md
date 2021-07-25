@@ -24,4 +24,4 @@ Veja também a lista de [contribuidores](https://github.com/thiagodnf/ofbtex/gra
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - veha o arquivo [LICENSE](LICENSE) para obter detalhes
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para obter detalhes
