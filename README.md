@@ -1,5 +1,10 @@
 # OFBtex
-Modelo em Latex para o Observatório do Federalismo Brasileiro (OFB)
+
+Customização da classe AbnTeX2 para uso na série Textos para Discussão do Observatório do Federalismo Brasileiro (OFB), vinculado do Governo do Estado do Ceará. Contém variados elementos que estão fora da normatização característica da ABNT. Dentre as mudanças:
+
+- Caracterização geral de fontes (cores, tamanhos, etc), assim como de espaçamentos;
+- Apresentação visual com elementos representativos da instituição para o qual foi feito. 
+
 
 [![GitHub Release](https://img.shields.io/github/release/thiagodnf/ofbtex.svg)](https://github.com/thiagodnf/ofbtex/releases/latest)
 [![GitHub contributors](https://img.shields.io/github/contributors/thiagodnf/ofbtex.svg)](https://github.com/thiagodnf/ofbtex/graphs/contributors)
