@@ -18,7 +18,7 @@ Se você gostaria de ver o arquivo final generado por esse template, [clique aqu
 
 ## Como usar
 
-Recomendamos que você utilize o Overleaf para criar o seu documento. Para isso, baixe o arquivos e faça o upload para um projeto em branco no Overleaf. Depois acesse o "Menu" e mude o compilador para "XeLatex" (Muito importante pois esse template usa fontes de terceiros).
+Recomendamos que você utilize o Overleaf para criar o seu documento. Para isso, baixe os arquivos e faça o upload para um projeto em branco no Overleaf. Depois acesse o "Menu" e mude o compilador para "XeLatex" (Muito importante pois esse template usa fontes de terceiros).
 
 ![image](https://user-images.githubusercontent.com/114015/126906148-0c5bfae0-87a3-4259-a00b-8700ee1bdaba.png)
 
