@@ -1,6 +1,6 @@
 # OFBtex
 
-Customização da classe AbnTeX2 para uso na série Textos para Discussão do Observatório do Federalismo Brasileiro (OFB), vinculado do Governo do Estado do Ceará. Contém variados elementos que estão fora da normatização característica da ABNT. Dentre as mudanças:
+Customização da classe AbnTeX2 para uso na série Textos para Discussão do Observatório do Federalismo Brasileiro (OFB), vinculado ao Governo do Estado do Ceará. Contém variados elementos que estão fora da normatização característica da ABNT. Dentre as mudanças:
 
 - Caracterização geral de fontes (cores, tamanhos, etc), assim como de espaçamentos;
 - Apresentação visual com elementos representativos da instituição para o qual foi feito. 
