@@ -34,7 +34,7 @@ Contribuições para este projeto são muito bem-vindas! Não podemos fazer isso
 ## Autores
 
 * **Thiago Ferreira** - *Trabalho Inicial*
-* **Hermelino de Souza** - *Trabalho Inicial*
+* **Hermelino Nepomuceno de Souza** - *Trabalho Inicial*
 
 Veja também a lista de [contribuidores](https://github.com/thiagodnf/ofbtex/graphs/contributors) que participaram deste projeto.
 
