@@ -235,41 +235,40 @@
 
 	\begin{capa}%
 	
-    	\begin{tikzpicture}[remember picture,overlay]
-    	    \node[anchor=north west, inner sep=0pt]%
-                at (current page.north west)
-                {\includegraphics[scale=1.0]{lib/figures/cover}};
-        \end{tikzpicture}
-        
-        \begin{tikzpicture}[remember picture,overlay]
-    	    \node[anchor=south west, inner sep=0pt]%
-                at (current page.south west)
-                {\includegraphics[scale=1.0]{lib/figures/background}};
-        \end{tikzpicture}
-	   
-		% Todos os elementos da capa devem esta centralizado
-		\center
-		% Todos os elementos da capa devem esta em negrito
-		\bfseries
-		\pagecolor{LightestGray}\afterpage{\nopagecolor}
+		\begin{tikzpicture}[remember picture,overlay]
+		    \node[anchor=north west, inner sep=0pt]%
+			at (current page.north west)
+			{\includegraphics[scale=1.0]{lib/figures/cover}};
+		\end{tikzpicture}
 
-        \vspace{70pt}
-        \begin{flushright}
-            \large{\textcolor{DarkGray}{TEXTO PARA DISCUSSÃO N\textsuperscript{\underline{o}} \VARworkingpaper}} \\
-        \end{flushright}
-        
-        \vspace{130pt}
-        
+		\begin{tikzpicture}[remember picture,overlay]
+		    \node[anchor=south west, inner sep=0pt]%
+			at (current page.south west)
+			{\includegraphics[scale=1.0]{lib/figures/background}};
+		\end{tikzpicture}
+
+			% Todos os elementos da capa devem esta centralizado
+			\center
+			% Todos os elementos da capa devem esta em negrito
+			\bfseries
+			\pagecolor{LightestGray}\afterpage{\nopagecolor}
+
+		\vspace{70pt}
+		
+		\begin{flushright}
+		    \large{\textcolor{DarkGray}{TEXTO PARA DISCUSSÃO N\textsuperscript{\underline{o}} \VARworkingpaper}} \\
+		\end{flushright}
+		\vspace{130pt}
+
 		\Large{\textcolor{Green}{\MakeUppercase{\thetitle}}} \\
-        
+		
 		\vfill
 		
 		\large{\Authors}
 		
 		\vfill
-		
 		\includegraphics[scale=0.8]{lib/figures/ceara}
-	
+		
 	\end{capa}
 	\cleardoublepage
 }
